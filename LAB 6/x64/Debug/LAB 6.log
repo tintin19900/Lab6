@@ -1,0 +1,4 @@
+﻿  LAB 6.cpp
+C:\Users\ASUS TUF GAMING\MVS2022\Lab\Lab6\LAB 6\LAB 6.cpp(19,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ASUS TUF GAMING\MVS2022\Lab\Lab6\LAB 6\LAB 6.cpp(19,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  LAB 6.vcxproj -> C:\Users\ASUS TUF GAMING\MVS2022\Lab\Lab6\LAB 6\x64\Debug\LAB 6.exe
